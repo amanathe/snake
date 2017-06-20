@@ -1,6 +1,6 @@
 Debug/
 Release/
-DirectX9_Base.sdf
+*.sdf
 
 # User-specific files
 *.suo
